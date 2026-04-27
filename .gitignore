@@ -1,0 +1,15 @@
+# Pastas de cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações do VSCode
+.vscode/
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Arquivos temporários
+*.log
+*.tmp
